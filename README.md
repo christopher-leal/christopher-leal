@@ -34,7 +34,6 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-leal&layout=compact&hide=html" alt="christopher-leal" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-leal&layout=compact&hide=html" alt="christopher-leal" />
+  <img src="https://github-readme-stats.vercel.app/api?username=christopher-leal&show_icons=true" alt="christopher-leal" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christopher-leal&show_icons=true" alt="christopher-leal" /></p>
