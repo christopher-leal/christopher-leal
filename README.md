@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Christopher Leal</h1>
 
 
-- 🔭 I’m currently working on [DBMenos](https://dbmenos.com/) as flutter dev.
+- 🔭 I’m currently working on [DBMenos](https://dbmenos.com/) as full-time flutter dev.
 
 - 🌱 I’m currently learning *Serverless with AWS services*
 
-- 👯 I’m looking to collaborate with *another flutter devs*
+- 👯 I’m looking to collaborate with *Flutter devs*
 
 - ⚡ Fun fact *I´m a gamer*
 
