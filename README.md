@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christopher Leal</h1>
 
 
-- 🔭 I’m currently working on [DBMenos](https://dbmenos.com/) as a full-time flutter dev.
+- 🔭 I’m currently working at [IBM](https://www.ibm.com/mx-es) as a full-time app developer | ReactJS, NodeJS
 
-- 🌱 I’m currently learning *Serverless with AWS services*
-
-- 👯 I’m looking to collaborate with *Flutter devs*
+- 🌱 I’m currently learning *Agile*
 
 - ⚡ Fun fact *I´m a gamer*
 
@@ -21,7 +19,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javscript" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="node" width="30" height="22"/> 
