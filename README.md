@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher Leal</h1>
 
 
-- 🔭 I’m currently working at [IBM](https://www.ibm.com/mx-es) as a full-time app developer | ReactJS, NodeJS
+- 🔭 I’m currently working at [IBM](https://www.ibm.com/mx-es) as a full-time full stack developer | ReactJS, NodeJS
 
 - 🌱 I’m currently learning *Agile*
 
