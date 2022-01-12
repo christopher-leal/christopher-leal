@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christopher Leal</h1>
 
 
-- 🔭 I’m currently working at [IBM](https://www.ibm.com/mx-es) as a full-time full stack developer | ReactJS, NodeJS
+- 🔭 I’m currently working at [Globant](https://www.globant.com/?utm_source=google&utm_medium=cpc&utm_campaign=a:mkt_r:lat_bo:crp_cn:bt-campaigns_s:google_m:cpc_o:ldg_bi:cpc_f:tx_y:2022_m:1_id:100018_ac:ao_t:latam&gclid=Cj0KCQiA8vSOBhCkARIsAGdp6RSAzgycd-eagODolARABYuljj53jcIUgS66MD0UdU8rMNaNgjZgqJUaAjwNEALw_wcB) as a full-time NodeJS developer
 
-- 🌱 I’m currently learning *Agile*
+- 🌱 I’m currently learning *Kubernetes*
 
 - ⚡ Fun fact *I´m a gamer*
 
